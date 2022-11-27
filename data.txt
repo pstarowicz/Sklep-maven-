@@ -1,0 +1,9 @@
+albert;c9c8afd3f23aa164229527131a36b636;ADMIN
+admin;df678e611ef53095dc775d94c7f3d577;ADMIN
+user;3026eb3ca37a1d6205fb6cd725e9da54;USER
+piotr;d8624b95c3e528d5b69d3f4ef704b273;ADMIN
+ 
+komputer;4999.99;10
+monitor;999.99;8
+mysz;59.99;20
+klawiatura;149.99;15
